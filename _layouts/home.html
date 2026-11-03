@@ -44,7 +44,7 @@
                   <ul class="nav navbar-nav">
 
                     {% for entry in pages_list %}
-                      {% if entry.order == 0 %}
+                      {% if entry.order == 0 or entry.order == nil %}
                         {% continue %}
                       {% endif %}
                       {% if entry.url == page.url %}
