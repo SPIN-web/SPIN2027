@@ -16,34 +16,18 @@ Below are the instructions for artifact reviewers.
 
 *All deadlines are AoE (anywhere on Earth).*
 
-There will be two rounds of reviews:
-the first round for mandatory artifacts of **Full Tool Papers**,
-and the second round for voluntary artifacts of other papers.
-Please stay in contact during both AE periods as some reviewers may be assigned artifacts from both categories.
+Artifact evaluation is optional and strongly encouraged for all paper categories, including **Full Tool Papers**.
+The review schedule will be announced.
 
-### Mandatory Artifacts
-
-| Date                        | Event                                                   |
-| --------------------------- | ------------------------------------------------------- |
-| To be decided | Artifact submission deadline                            |
-| To be decided | Artifact bidding due                                    |
-| To be decided | Smoke-test reviews due                                  |
+| Date | Event |
+| ---- | ----- |
+| To be decided | Artifact submission deadline |
+| To be decided | Artifact bidding due |
+| To be decided | Smoke-test reviews due |
 | To be decided | Author responses due (with possible fixes to artifacts) |
-| To be decided | Full reviews due                                        |
-| To be decided | AEC discussion                                          |
-| To be decided | Artifact notification                                   |
-
-### Voluntary Artifacts
-
-| Date            | Event                                                   |
-| --------------- | ------------------------------------------------------- |
-| To be decided | Artifact submission deadline                            |
-| To be decided | Artifact bidding due                                    |
-| To be decided | Smoke-test reviews due                                  |
-| To be decided | Author responses due (with possible fixes to artifacts) |
-| To be decided | Full reviews due                                        |
-| To be decided | AEC discussion                                          |
-| To be decided | Artifact notification                                   |
+| To be decided | Full reviews due |
+| To be decided | AEC discussion |
+| To be decided | Artifact notification |
 
 ## Artifact Bidding
 

@@ -7,38 +7,21 @@ title: Artifact Evaluation
 
 # Artifact Evaluation
 
-SPIN 2027 artifact evaluation (AE) is mandatory for all submissions to the category **Full Tool Papers** and
-strongly encouraged for papers in other categories as well.
-
-Note that a submission to **Full Tool Papers** will be considered for acceptance
-only if its accompanying artifact receives at least the **Functional Badge** in artifact evaluation.
-(The evaluation results of a non-mandatory artifact will not influence the acceptance of the corresponding paper.)
+Artifact evaluation (AE) is **strongly encouraged for all paper categories**, including **Full Tool Papers**, but is **optional**.
+Artifact evaluation results will not influence acceptance of the corresponding paper.
 
 ## Important Dates
 
 *All deadlines are AoE (anywhere on Earth).*
 
-There will be two AE rounds: one for **mandatory** artifacts, and the other for **non-mandatory** ones.
+The artifact evaluation schedule will be announced.
 
-### Mandatory AE for **Full Tool Papers**:
-
-| Date              | Event                        |
-| ----------------- | ---------------------------- |
+| Date | Event |
+| ---- | ----- |
 | To be decided | Artifact submission deadline |
-| To be decided | Smoke test review out        |
+| To be decided | Smoke test review out |
 | To be decided | Smoke test response deadline |
-| To be decided | Artifact notification        |
-
-<hr style="height:15px; visibility:hidden;" />
-
-### Voluntary AE for **accepted papers** in other categories:
-
-| Date           | Event                        |
-| -------------- | ---------------------------- |
-| To be decided | Artifact submission deadline |
-| To be decided | Smoke test review out        |
-| To be decided | Smoke test response deadline |
-| To be decided | Artifact notification        |
+| To be decided | Artifact notification |
 
 ## Artifacts and Evaluation Criteria
 

@@ -60,17 +60,16 @@ The proceedings of SPIN 2027 will be published in Springer's _Lecture Notes in C
 
 With the exception of survey and history papers, the papers should contain original work that has not been submitted or accepted for publication elsewhere.
 
-We are soliciting three categories of papers:
+We are soliciting two categories of papers:
 
 - **Full Research Papers** describing fully developed work and complete results (16 pages, excluding bibliography and appendices);
 
 <!--
-- **Full Tool Papers**, accompanied by a **Mandatory Artifact**, describing work that is closely-related to the development or the evaluation of a verification tool or similar (16 pages, excluding bibliography and appendices);
-  A submission to this category will be considered for **acceptance only if its accompanying artifact receives at least the Functional Badge**
-  in [artifact evaluation]({{ '/artifacts' | relative_url }}).
+- **Full Tool Papers** describing work that is closely-related to the development or the evaluation of a verification tool or similar (16 pages, excluding bibliography and appendices); artifact evaluation is optional and strongly encouraged.
 -->
 
-- **Short Papers** presenting tools, technology, experiences with lessons learned, new ideas, work in progress with preliminary results, and novel contributions to formal methods (6 pages, excluding bibliography and appendices). Note: Artifact evaluation is optional for short papers but highly recommended for those with a focus on tools. In the latter case, we recommend submitting the artifact to the mandatory AE deadline.
+
+- **Short Papers** presenting tools, technology, experiences with lessons learned, new ideas, work in progress with preliminary results, and novel contributions to formal methods (6 pages, excluding bibliography and appendices). Note: Artifact evaluation is optional and strongly encouraged for all paper categories.
 
 All papers that conform to submission guidelines will be peer-reviewed by members of the program committee. Submissions will be evaluated on the basis of originality, the importance of contribution, soundness, evaluation, quality of presentation, and appropriate comparison to related work.
 
@@ -84,8 +83,7 @@ A Best Paper award will be announced and handed out at the conference.
 
 SPIN 2027 will feature artifact evaluation, performed by an Artifact Evaluation Committee (AEC).
 The AEC evaluates artifacts based on documentation, availability, reproducibility of results, and tool reusability (if applicable).
-Artifact submission is mandatory for **Full Tool Papers**.
-While artifact submission is optional for papers in other categories,
-we highly encourage authors of papers involving tool development and empirical evaluation to submit an artifact for evaluation.
+Artifact evaluation is **strongly encouraged for all paper categories**, including **Full Tool Papers**, but is **optional**.
+Artifact evaluation results will not influence acceptance of the corresponding paper.
 Papers with an accompanying artifact may be awarded one or more badges from the [EAPLS artifact badging scheme](https://eapls.org/pages/artifact_badges/).
 More details can be found on the page about [artifacts]({{ '/artifacts' | relative_url }}).
