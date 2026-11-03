@@ -7,7 +7,7 @@ title: Artifact Evaluation
 
 # Artifact Evaluation
 
-Artifact evaluation (AE) is **strongly encouraged for all paper categories**, including **Full Tool Papers**, but is **optional**.
+Artifact evaluation (AE) is strongly encouraged for all paper categories, including Full Tool Papers, but is optional.
 Artifact evaluation results will not influence acceptance of the corresponding paper.
 
 ## Important Dates
