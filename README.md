@@ -3,7 +3,7 @@
 Website for SPIN 2027, based on the [SPIN 2026 repository](https://github.com/SPIN-web/SPIN2026).
 Built with Jekyll for https://spin-web.github.io/SPIN2027/.
 
-Program chairs: Emily Yu (z.yu@liacs.leidenuniv.nl) and Carlos Esteban Budde (cesbu@dtu.dk).
+Program chairs: Carlos Esteban Budde (cesbu@dtu.dk) and Emily Yu (z.yu@liacs.leidenuniv.nl).
 Abstract submission deadline: January 21, 2027.
 Paper submission deadline: January 28, 2027. All deadlines are AoE (anywhere on Earth). SPIN takes place April 14–15, 2027, co-located with ETAPS 2027 in Copenhagen, Denmark. Other dates, committees, speakers,
 and submission details are awaiting confirmation.
