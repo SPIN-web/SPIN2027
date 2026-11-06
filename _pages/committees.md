@@ -53,5 +53,5 @@ To be decided.
 [Jaco van de Pol](https://cs.au.dk/~jaco/) (Aarhus University, Denmark)  
 [Neha Rungta](https://www.amazon.science/author/neha-rungta) (AWS, USA)  
 [Willem Visser](http://www.cs.sun.ac.za/~wvisser/) (Stellenbosch University, South Africa)  
-[Georgiana Caltais](https://www.georgianacaltais.com/) (University of Twente, Netherlands)  
+Georgiana Caltais (University of Twente, Netherlands)  
 [Christian Schilling](https://www.christianschilling.net/) (Aalborg University, Denmark)
