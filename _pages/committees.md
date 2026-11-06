@@ -9,16 +9,36 @@ title: Committees
 
 ## Program Chairs
 
-[Carlos Esteban Budde](https://www.dtu.dk/english/person/carlos-esteban-budde?id=219203&entity=profile) (Technical University of Denmark, Denmark) — <cesbu@dtu.dk>  
+[Carlos E. Budde](https://www.dtu.dk/english/person/carlos-esteban-budde?id=219203&entity=profile) (Technical University of Denmark, Denmark) — <cesbu@dtu.dk>  
 [Emily Yu](https://emilyyyu.github.io/) (Leiden University, The Netherlands) — <z.yu@liacs.leidenuniv.nl>
 
 ## Artifact Evaluation Chair
 
 To be decided.
 
+## Publicity Chair
+
+[Julian Neuberger](https://www.dtu.dk/english/person/julian-tobias-neuberger?id=227948&entity=profile) (Technical University of Denmark, Denmark) — <jtone@dtu.dk>
+
 ## Program Committee
 
-To be decided.
+|        Name        |                   Affiliation                   |
+|:------------------:|:-----------------------------------------------:|
+|     Jiri Barnat    |        Masaryk University, Czech Republic       |
+|    Pablo Castro    |  Universidad Nacional de Río Cuarto, Argentina  |
+|  Vincenzo Ciancia  | Institute of Inf. Science and Tech. “A. Faedo”, |
+|    Nancy A. Day    |          University of Waterloo, Canada         |
+|    Yliès Falcone   |    Université Grenoble Alpes & INRIA, France    |
+|   Ansgar Fehnker   |         Macquarie University, Australia         |
+|  Jan Friso Groote  |   Technical University Eindhoven, Netherlands   |
+|   Arnd Hartmanns   | Technical University of Twente, The Netherlands |
+|    Daisuke Ishii   |                   JAIST, Japan                  |
+|     Stefan Leue    |         University of Konstanz, Germany         |
+| Cristina Seceleanu |          Mälardalen University, Sweden          |
+|    Emilio Tuosto   |           Gran Sasso Institute, Italy           |
+| Franck van Breugel |             York University, Canada             |
+|   Miaomiao Zhang   |             Tongji University, China            |
+|     Zhen Zhang     |            Utah State University, USA           |
 
 ## Artifact Evaluation Committee
 
