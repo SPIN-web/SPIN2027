@@ -24,21 +24,21 @@ To be decided.
 
 |        Name        |                   Affiliation                   |
 |:------------------:|:-----------------------------------------------:|
-|     Jiri Barnat    |        Masaryk University, Czech Republic       |
+|    Jiri Barnat     |       Masaryk University, Czech Republic        |
 |    Pablo Castro    |  Universidad Nacional de Río Cuarto, Argentina  |
 |  Vincenzo Ciancia  | Institute of Inf. Science and Tech. “A. Faedo”, |
-|    Nancy A. Day    |          University of Waterloo, Canada         |
-|    Yliès Falcone   |    Université Grenoble Alpes & INRIA, France    |
+|    Nancy A. Day    |         University of Waterloo, Canada          |
+|   Yliès Falcone    |    Université Grenoble Alpes & INRIA, France    |
 |   Ansgar Fehnker   |         Macquarie University, Australia         |
 |  Jan Friso Groote  |   Technical University Eindhoven, Netherlands   |
 |   Arnd Hartmanns   | Technical University of Twente, The Netherlands |
-|    Daisuke Ishii   |                   JAIST, Japan                  |
-|     Stefan Leue    |         University of Konstanz, Germany         |
+|   Daisuke Ishii    |                  JAIST, Japan                   |
+|    Stefan Leue     |         University of Konstanz, Germany         |
 | Cristina Seceleanu |          Mälardalen University, Sweden          |
-|    Emilio Tuosto   |           Gran Sasso Institute, Italy           |
+|   Emilio Tuosto    |           Gran Sasso Institute, Italy           |
 | Franck van Breugel |             York University, Canada             |
-|   Miaomiao Zhang   |             Tongji University, China            |
-|     Zhen Zhang     |            Utah State University, USA           |
+|   Miaomiao Zhang   |            Tongji University, China             |
+|     Zhen Zhang     |           Utah State University, USA            |
 
 ## Artifact Evaluation Committee
 
