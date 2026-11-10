@@ -31,7 +31,6 @@ To be decided.
 |     Nancy A. Day      |          University of Waterloo, Canada           |
 |     Yliès Falcone     |     Université Grenoble Alpes & INRIA, France     |
 |    Ansgar Fehnker     |          Macquarie University, Australia          |
-|    Alberto Griggio    |          Fondazione Bruno Kesler, Italy           |
 |   Jan Friso Groote    |    Technical University Eindhoven, Netherlands    |
 |    Arnd Hartmanns     |  Technical University of Twente, The Netherlands  |
 |     Daisuke Ishii     |                   JAIST, Japan                    |
