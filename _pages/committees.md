@@ -22,25 +22,28 @@ To be decided.
 
 ## Program Committee
 
-|        Name        |                    Affiliation                    |
-|:------------------:|:-------------------------------------------------:|
-|    Jiri Barnat     |        Masaryk University, Czech Republic         |
-|    Pablo Castro    |   Universidad Nacional de Río Cuarto, Argentina   |
-|  Vincenzo Ciancia  |  Institute of Inf. Science and Tech. “A. Faedo”,  |
-|    Nancy A. Day    |          University of Waterloo, Canada           |
-|   Yliès Falcone    |     Université Grenoble Alpes & INRIA, France     |
-|   Ansgar Fehnker   |          Macquarie University, Australia          |
-|  Jan Friso Groote  |    Technical University Eindhoven, Netherlands    |
-|   Arnd Hartmanns   |  Technical University of Twente, The Netherlands  |
-|   Daisuke Ishii    |                   JAIST, Japan                    |
-|    Stefan Leue     |          University of Konstanz, Germany          |
-|    Eric Mercer     |           Brigham Young University, USA           |
-| Cristina Seceleanu |           Mälardalen University, Sweden           |
-|   Emilio Tuosto    |            Gran Sasso Institute, Italy            |
-| Franck van Breugel |              York University, Canada              |
-|    Yakir Vizel     | Technion – Israel Institute of Technology, Israel |
-|   Miaomiao Zhang   |             Tongji University, China              |
-|     Zhen Zhang     |            Utah State University, USA             |
+|         Name          |                    Affiliation                    |
+|:---------------------:|:-------------------------------------------------:|
+| Kristin Yvonne Rozier |            Iowa State University, USA             | 
+|      Jiri Barnat      |        Masaryk University, Czech Republic         |
+|     Pablo Castro      |   Universidad Nacional de Río Cuarto, Argentina   |
+|   Vincenzo Ciancia    |  Institute of Inf. Science and Tech. “A. Faedo”,  |
+|     Nancy A. Day      |          University of Waterloo, Canada           |
+|     Yliès Falcone     |     Université Grenoble Alpes & INRIA, France     |
+|    Ansgar Fehnker     |          Macquarie University, Australia          |
+|    Alberto Griggio    |          Fondazione Bruno Kesler, Italy           |
+|   Jan Friso Groote    |    Technical University Eindhoven, Netherlands    |
+|    Arnd Hartmanns     |  Technical University of Twente, The Netherlands  |
+|     Daisuke Ishii     |                   JAIST, Japan                    |
+|      Stefan Leue      |          University of Konstanz, Germany          |
+|      Eric Mercer      |           Brigham Young University, USA           |
+|  Cristina Seceleanu   |           Mälardalen University, Sweden           |
+|     Emilio Tuosto     |            Gran Sasso Institute, Italy            |
+|  Franck van Breugel   |              York University, Canada              |
+|      Yakir Vizel      | Technion – Israel Institute of Technology, Israel |
+|     Vesal Vojdani     |           University of Tartu, Estonia            |
+|    Miaomiao Zhang     |             Tongji University, China              |
+|      Zhen Zhang       |            Utah State University, USA             |
 
 ## Artifact Evaluation Committee
 
