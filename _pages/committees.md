@@ -14,7 +14,7 @@ title: Committees
 
 ## Artifact Evaluation Chair
 
-To be decided.
+[Laura Bussi](https://laurab1.github.io/) (University of Amsterdam, The Netherlands) — <l.bussi@uva.nl>
 
 ## Publicity Chair
 
