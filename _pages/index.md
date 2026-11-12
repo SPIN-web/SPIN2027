@@ -27,7 +27,7 @@ SPIN 2027 will be co-located with the 30th European Joint Conferences on Theory 
 
 **Program Chairs**: [Carlos E. Budde](https://www.dtu.dk/english/person/carlos-esteban-budde?id=219203&entity=profile) and [Emily Yu](https://emilyyyu.github.io/)
 
-**Artifact Evaluation Chair**: To be decided.
+**Artifact Evaluation Chair**: [Laura Bussi](https://laurab1.github.io/)
 
 **Program Committee**: To be decided.
 
