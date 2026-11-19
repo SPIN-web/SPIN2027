@@ -54,7 +54,7 @@ Topics of interest include, but are not limited to:
 
 ## Submission Categories and Guidelines
 
-Papers should be submitted via the EasyChair SPIN 2027 submission website: https://easychair.org/conferences/?conf=spin2027. 
+Papers should be submitted via the EasyChair SPIN 2027 submission website: [https://easychair.org/conferences/?conf=spin2027](https://easychair.org/conferences/?conf=spin2027). 
 
 The proceedings of SPIN 2027 will be published in Springer's _Lecture Notes in Computer Science_ series. Submissions should adhere to the LNCS format, see Springer's website for [detailed instructions](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Please take into account Springer's [Book authors code of conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct) when preparing submissions.
 
