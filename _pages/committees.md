@@ -31,16 +31,21 @@ title: Committees
 |     Nancy A. Day      |          University of Waterloo, Canada           |
 |     Yliès Falcone     |     Université Grenoble Alpes & INRIA, France     |
 |    Ansgar Fehnker     |          Macquarie University, Australia          |
+|     Susanne Graf      |                  Verimag, France                  |
 |   Jan Friso Groote    |    Technical University Eindhoven, Netherlands    |
 |    Arnd Hartmanns     |  Technical University of Twente, The Netherlands  |
 |     Daisuke Ishii     |                   JAIST, Japan                    |
 |      Stefan Leue      |          University of Konstanz, Germany          |
+|    Ravindra Metta     |         Tata Consultancy Services, India          |
 |      Eric Mercer      |           Brigham Young University, USA           |
+|     Rodrigo Otoni     |     University of Groningen, The Netherlands      |
+|      Anne Remke       |          University of Münster, Germany           |
 |  Cristina Seceleanu   |           Mälardalen University, Sweden           |
 |     Emilio Tuosto     |            Gran Sasso Institute, Italy            |
 |  Franck van Breugel   |              York University, Canada              |
 |      Yakir Vizel      | Technion – Israel Institute of Technology, Israel |
 |     Vesal Vojdani     |           University of Tartu, Estonia            |
+|  Georg Weissenbacher  |                 TU Wien, Austria                  |
 |    Miaomiao Zhang     |             Tongji University, China              |
 |      Zhen Zhang       |            Utah State University, USA             |
 
