@@ -29,7 +29,7 @@ SPIN 2027 will be co-located with the 30th European Joint Conferences on Theory 
 
 **Artifact Evaluation Chair**: [Laura Bussi](https://laurab1.github.io/)
 
-**Program Committee**: To be decided.
+**Program Committee**: See the [Committees page]({{ '/committees' | relative_url }}) for the full list of Program Committee members.
 
 See the [Committees page]({{ '/committees' | relative_url }}) for organizer contact details.
 
