@@ -39,8 +39,8 @@ See the [Committees page]({{ '/committees' | relative_url }}) for organizer cont
 |----------------------|-------------------------------|
 | January 21, 2027     | Abstract submission deadline  |
 | **January 28, 2027** | **Paper submission deadline** |
-| To be decided        | Artifact submission deadline  |
-| To be decided        | Notification of acceptance    |
+| February 04, 2027    | Artifact submission deadline  |
+| March 05, 2027       | Notification of acceptance    |
 | April 14–15, 2027    | Symposium                     |
 
 *All deadlines are AoE (anywhere on Earth).*
