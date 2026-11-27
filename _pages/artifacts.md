@@ -16,12 +16,12 @@ Artifact evaluation results will not influence acceptance of the corresponding p
 
 The artifact evaluation schedule will be announced.
 
-| Date | Event |
-| ---- | ----- |
-| To be decided | Artifact submission deadline |
-| To be decided | Smoke test review out |
-| To be decided | Smoke test response deadline |
-| To be decided | Artifact notification |
+| Date              | Event                        |
+|-------------------|------------------------------|
+| February 04, 2027 | Artifact submission deadline |
+| To be decided     | Smoke test review out        |
+| To be decided     | Smoke test response deadline |
+| To be decided     | Artifact notification        |
 
 ## Artifacts and Evaluation Criteria
 
