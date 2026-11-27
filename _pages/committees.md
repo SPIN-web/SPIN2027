@@ -14,7 +14,7 @@ title: Committees
 
 ## Artifact Evaluation Chair
 
-[Laura Bussi](https://laurab1.github.io/) (University of Amsterdam, The Netherlands) — <l.bussi@uva.nl>
+[Laura Bussi](https://laurab1.github.io/) (University of Amsterdam, The Netherlands) — <l.bussi@uva.nl>  
 [Katalin Fazekas](https://kfazekas.github.io/) (TU Wien, Austria) — <katalin.fazekas@tuwien.ac.at>
 
 ## Publicity Chair
